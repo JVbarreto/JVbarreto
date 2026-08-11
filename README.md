@@ -67,15 +67,6 @@ Painel para gerenciamento e acompanhamento de operações.
 
 ---
 
-## 📊 GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JVbarreto&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVbarreto&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: https://linkedin.com/in/vitor-barretodev
