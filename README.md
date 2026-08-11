@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Vitor Barreto!
+#  Olá, eu sou Vitor Barreto!
 
 ### Desenvolvedor de Software | Mobile & Web
 
